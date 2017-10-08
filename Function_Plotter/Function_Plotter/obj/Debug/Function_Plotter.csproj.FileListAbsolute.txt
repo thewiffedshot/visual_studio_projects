@@ -1,0 +1,9 @@
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\bin\Debug\Function_Plotter.exe.config
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\bin\Debug\Function_Plotter.exe
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\bin\Debug\Function_Plotter.pdb
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\obj\Debug\Function_Plotter.csprojResolveAssemblyReference.cache
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\obj\Debug\Function_Plotter.Form1.resources
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\obj\Debug\Function_Plotter.Properties.Resources.resources
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\obj\Debug\Function_Plotter.csproj.GenerateResource.Cache
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\obj\Debug\Function_Plotter.exe
+c:\users\sovietdoggo\documents\visual studio 2017\Projects\Function_Plotter\Function_Plotter\obj\Debug\Function_Plotter.pdb
